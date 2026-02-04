@@ -1,8 +1,8 @@
 {
-    "url": "https://raw.githubusercontent.com/yasinyilmaz/swagger/refs/heads/main/login-form.yaml",
+    "url": "https://raw.githubusercontent.com/yasinyilmaz/swagger-ui/refs/heads/main/login-form.yaml",
     "urls": [
         {
-            "url": "https://raw.githubusercontent.com/yasinyilmaz/swagger/refs/heads/main/login-form.yaml",
+            "url": "https://raw.githubusercontent.com/yasinyilmaz/swagger-ui/refs/heads/main/login-form.yaml",
             "name": "swagger-ui"
         }
     ]
